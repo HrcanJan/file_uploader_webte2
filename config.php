@@ -1,0 +1,1 @@
+https://site76.webte.fei.stuba.sk/zad1/

@@ -1,0 +1,48 @@
+body{
+    color: black;
+    height: 100%;
+    margin: 0;
+    padding: 20px;
+}
+
+table, tr, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table{
+    width: 100%;
+}
+
+th {
+    background: #1c1919;
+    color: white;
+    cursor: pointer;
+}
+
+td, th{
+    padding: 5px;
+}
+
+tr:nth-child(even) {
+    background: #cecbd5;
+}
+
+tr:nth-child(odd) {
+    background: white;
+}
+
+.center {
+    text-align: center;
+}
+
+.form {
+    background: aquamarine;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.margin {
+    margin-bottom: 5px;
+}
